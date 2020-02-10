@@ -1,14 +1,14 @@
-Name:
+Name: Tuan Pham
 
-EID:
+EID: tp23843
 
-Team Number:
+Team Number: 11
 
 ## Questions
 
 1. Why does your program need a setup and a loop?
-
-    your answer here
+	
+	
 
 2. What is the downside to putting all your code in a loop?
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/Procedure A sequence.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)

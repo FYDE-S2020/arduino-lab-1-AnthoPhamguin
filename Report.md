@@ -62,13 +62,13 @@ Team Number: 11
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/A_sequence.png)
+![Put path to your image here ->](img/A_sequence.PNG)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/A_dimmer.png)
+![Put path to your image here ->](img/A_dimmer.PNG)
 
 Procedure B, UART:
-![Put path to your image here ->](img/B_UART.png)
+![Put path to your image here ->](img/B_UART.PNG)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/B_SPI.png)
+![Put path to your image here ->](img/B_SPI.PNG)
